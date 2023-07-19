@@ -1,3 +1,6 @@
 [submodule "42SP01_libft"]
 	path = 42SP01_libft
 	url = git@github.com:msakurad/42SP01_libft.git
+[submodule "42SP02_get_next_line"]
+	path = 42SP02_get_next_line
+	url = https://github.com/msakurad/42SP02_get_next_line
