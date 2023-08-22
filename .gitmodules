@@ -4,3 +4,6 @@
 [submodule "42SP02_get_next_line"]
 	path = 42SP02_get_next_line
 	url = https://github.com/msakurad/42SP02_get_next_line
+[submodule "42SP03_ft_printf"]
+	path = 42SP03_ft_printf
+	url = https://github.com/msakurad/42SP03_ft_printf
